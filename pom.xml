@@ -5,7 +5,7 @@
 
 	<groupId>cn.luischen</groupId>
 	<artifactId>my-site</artifactId>
-	<version>1.0.2.RELEASE</version>
+	<version>1.0.1.RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>my-site</name>
@@ -22,7 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<docker.image.prefix>winterchen</docker.image.prefix>
+		<docker.image.prefix>amorsl</docker.image.prefix>
 	</properties>
 
 	<dependencies>

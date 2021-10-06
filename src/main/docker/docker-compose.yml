@@ -3,9 +3,9 @@ version: '3'
 services:
   delay-server:
     container_name: my-site
-    image: winterchen/my-site
+    image: amorsl/my-site
     ports:
-      - "8089:8089"
+      - "8080:8080"
     volumes:
       - "./log:/log"
     environment:
